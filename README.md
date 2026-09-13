@@ -1,103 +1,202 @@
 <div align="center">
-    <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%E2%9C%8C%EF%B8%8F;My+name+is+D%C6%B0%C6%A1ng+Nh%E1%BA%ADt+Anh%F0%9F%91%8B;a+k.a+Katorivn%F0%9F%AB%B5" alt="Typing SVG" /></a>
-    </h1>
-    <h3>A passionate software developer from Vietnam 🇻🇳</h3>
-    <h4>"Code is poetry, and I'm writing my masterpiece." 💻</h4>
-</div>
 
-<hr/>
+# 👋 Hi, I'm Dương Nhật Anh
 
-<div align="center">
-    🔭 I’m currently working on <b>a team</b>  
-    🌱 I’m currently learning <code>C#, Dart,...</code>  
-    💬 Ask me about <b>Java, C, MySQL...</b> or anything <a href="https://github.com/katorivn699/ProfileIntroduction/issues">here</a>
-</div>
+### `Software Developer` · `Full-stack Enthusiast` · `Vietnam 🇻🇳`
 
-<div align="center">
-    <a href="mailto:anhkhung123@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://www.facebook.com/katorivn" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-0077B5?style=flat-square&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/duy-nhat-anh" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://katorivn.com" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" />
-    </a>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code.;Building+things+I+actually+want+to+use.;Always+learning.+Always+shipping." alt="Typing SVG" />
 
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <h4>IDEs & Tools</h4>
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,idea,git" /><br/>
-    <h4>Programming Languages</h4>
-    <img src="https://skillicons.dev/icons?i=javascript,java,c,cs,typescript" /><br/>
-    <h4>Frontend Technologies</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite" /><br/>
-    <h4>Backend & Frameworks</h4>
-    <img src="https://skillicons.dev/icons?i=spring,discordjs" /><br>
-    <h4>Databases</h4>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb" /><br/>
+
+<a href="mailto:anhkhung123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://www.facebook.com/katorivn">
+  <img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+</a>
+<a href="https://linkedin.com/in/duy-nhat-anh">
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://katorivn.com">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 </div>
 
-<hr/>
-
-<h2 align="center">🚀 My Projects 🚀</h2>
-<div align="center">
-    <table>
-        <tr>
-            <th>Project Name</th>
-            <th>Description</th>
-            <th>Technologies</th>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/katorivn699/EMCDashboard">Emc management</a></td>
-            <td>A web app for task management</td>
-            <td>Nextjs, MongoDB, Pusher</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/katorivn699/beludrive">Drive Learning App</a></td>
-            <td>An Android app for learning</td>
-            <td>Dart, Flutter, Android Studio</td>
-        </tr>
-    </table>
-</div>
-
-<hr/>
-
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/katorivn699/katorivn699/blob/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake.svg" />
-        <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake.svg" />
-    </picture>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br/>
+
+## 🧑‍💻 About Me
+
+```ts
+const katorivn = {
+    name: "Dương Nhật Anh",
+    location: "Vietnam 🇻🇳",
+
+    focus: [
+        "Full-stack Development",
+        "Backend Systems",
+        "Mobile Development"
+    ],
+
+    currentlyLearning: [
+        "C#",
+        ".NET",
+        "Dart",
+        "Flutter"
+    ],
+
+    motto: "Code. Learn. Build. Repeat."
+};
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
 <div align="center">
-    <img width=350 src="https://github-readme-stats.vercel.app/api?username=katorivn699&theme=dracula&show_icons=true&hide_border=true" />
-    <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=katorivn699&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
-    <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=katorivn699&theme=dracula&hide_border=true" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,cs,dart&perline=8" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite&perline=8" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs&perline=8" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=8" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,idea,androidstudio&perline=8" />
+
 </div>
 
-<hr/>
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 EMC Management
+
+Task & team management platform focused on project collaboration and productivity.
+
+**Stack**
+
+`Next.js` `MongoDB` `Pusher`
+
+<br/>
+
+<a href="https://github.com/katorivn699/EMCDashboard">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Drive Learning App
+
+Mobile learning application built for studying and practicing driving knowledge.
+
+**Stack**
+
+`Dart` `Flutter` `Android Studio`
+
+<br/>
+
+<a href="https://github.com/katorivn699/beludrive">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Overview
 
 <div align="center">
-    <h2>☕ Ko-fi Support ☕</h2>
-    <a href="https://ko-fi.com/katorivn699" target="_blank">
-        <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
-    </a>
-    <br/><br/>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=katorivn699.katorivn699" alt="Visitor count"/>
+
+<img width="90%" src="./profile-summary-card-output/dracula/0-profile-details.svg" />
+
+<br/><br/>
+
+<img width="44%" src="./profile-summary-card-output/dracula/1-repos-per-language.svg" />
+<img width="44%" src="./profile-summary-card-output/dracula/3-stats.svg" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📊 More GitHub Stats</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img width="44%" src="./profile-summary-card-output/dracula/2-most-commit-language.svg" />
+<img width="44%" src="./profile-summary-card-output/dracula/4-productive-time.svg" />
+
+</div>
+
+</details>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+## ☕ Support
+
+<div align="center">
+
+If you like my projects, consider supporting me.
+
+<br/><br/>
+
+<a href="https://ko-fi.com/katorivn699">
+  <img src="https://img.shields.io/badge/Buy_me_a_coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=katorivn699&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+### Thanks for stopping by 👋
+
+<sub>Building cool things, one commit at a time.</sub>
+
 </div>
